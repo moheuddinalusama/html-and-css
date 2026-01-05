@@ -1,0 +1,22 @@
+ul li a{
+text-decoration: none;
+ color: aliceblue;
+}
+li{
+    display: inline;
+    margin: 15px;
+    list-style: none;
+    border-radius: 50px;
+    background-color: #06802b;
+    padding: 10px;
+   
+}
+ul li:hover
+{
+
+    background-color: #03551b;
+}
+#sahi{
+
+    border-radius: 50px;
+}
